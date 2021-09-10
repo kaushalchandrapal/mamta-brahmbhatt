@@ -59,7 +59,7 @@ function About() {
   return (
     <Layout>
       <Helmet>
-        <title>About - Chester React Personal Portfolio Template</title>
+        <title>About - Mamta Brahmbhatt</title>
         <meta
           name="description"
           content="Chester React Personal Portfolio Template About Page"
@@ -73,7 +73,7 @@ function About() {
               <div className="mi-about-image">
                 <ProgressiveImage
                   src={information.aboutImage}
-                  placeholder="/images/about-image-placeholder.png"
+                  placeholder="/images/mamta1.png"
                 >
                   {(src) => (
                     <img
@@ -88,7 +88,7 @@ function About() {
                 </span>
                 <FsLightbox
                   toggler={toggler}
-                  sources={[information.aboutImageLg]}
+                  sources={[information.aboutImage]}
                 />
               </div>
             </div>
@@ -98,9 +98,12 @@ function About() {
                   I am <span className="color-theme">{information.name}</span>
                 </h3>
                 <p>
-                  I am a frontend web developer. I can provide clean code and
-                  pixel perfect design. I also make website more & more
-                  interactive with web animations.
+                  I am <strong>Associate Professor (Marketing)</strong>
+                  {' '}and <strong>Head - Department of Bussiness Intelligence</strong>
+                  {' '}at
+                  <strong> B K School of Bussiness Management and Professional Studies, Gujarat University</strong>.
+                  I am specialized in <strong>Quantitative Techniques</strong> and
+                  {' '}<strong>Research Methods</strong>.
                 </p>
                 <ul>
                   {!information.name ? null : (

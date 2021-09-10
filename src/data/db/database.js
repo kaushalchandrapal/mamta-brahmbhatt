@@ -34,7 +34,7 @@ const database = {
       github: 'https://github.com'
     },
     brandImage: '/images/mamta1.jpeg',
-    aboutImage: '/images/mamta1.jpeg',
+    aboutImage: '/images/ma1m1.jpeg',
     aboutImageLg: '/images/about-image-lg.jpg',
     cvfile: '/files/empty.pdf'
   },
