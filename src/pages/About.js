@@ -95,7 +95,7 @@ function About() {
             <div className="col-lg-6">
               <div className="mi-about-content">
                 <h3>
-                  I am <span className="color-theme">{information.name}</span>
+                  <span className="color-theme">{information.name}</span>
                 </h3>
                 <p>
                   I am <strong>Associate Professor (Marketing)</strong>
