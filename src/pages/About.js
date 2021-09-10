@@ -102,8 +102,16 @@ function About() {
                   {' '}and <strong>Head - Department of Bussiness Intelligence</strong>
                   {' '}at
                   <strong> B K School of Bussiness Management and Professional Studies, Gujarat University</strong>.
-                  I am specialized in <strong>Quantitative Techniques</strong> and
-                  {' '}<strong>Research Methods</strong>.
+                  My areas of specialization are <strong>Quantitative Techniques</strong> and
+                  {' '}<strong>Research Methods</strong>. My scholarly work includes more than 100 research papers
+                  {' '} and over 30 books. My Massive Open Online Courses (MOOCs) on
+                  {' '} <strong>Consumer Behaviour</strong>,
+                  {' '} <strong>Legal Aspects of Bussiness</strong>,
+                  {' '} <strong>Advertising & Branding</strong> and
+                  {' '} <strong>Cost Management Accounting</strong> are available on
+                  {' '} <strong>Swayam</strong> an initiative launched by
+                  {' '}<strong>Ministry of Education, Government of India</strong> under
+                  {' '}<strong>Digital India</strong>.
                 </p>
                 <ul>
                   {!information.name ? null : (
