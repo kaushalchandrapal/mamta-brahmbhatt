@@ -182,7 +182,7 @@ function About() {
       </div>
       <div className="mi-review-area mi-section mi-padding-top mi-padding-bottom">
         <div className="container">
-          <Sectiontitle title="Reviews" />
+          <Sectiontitle title="Testimonials" />
           <div className="row justify-content-center">
             <div className="col-12">
               <Slider className="mi-testimonial-slider" {...sliderSettings}>

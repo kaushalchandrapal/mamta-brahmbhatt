@@ -41,17 +41,17 @@ const database = {
   services: [
     {
       title: "Web Design",
-      icon: 'color-pallet',
+      icon: 'book',
       details: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod."
     },
     {
       title: "Web Development",
-      icon: 'code',
+      icon: 'pencil',
       details: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod."
     },
     {
       title: "Mobile Application",
-      icon: 'mobile',
+      icon: 'thought',
       details: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod."
     }
   ],
